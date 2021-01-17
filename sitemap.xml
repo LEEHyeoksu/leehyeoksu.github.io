@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <sitemap>
-    <loc>http://www.example.com/en/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>http://leehyeoksu.github.io/categories/</loc>
+  </url>
   
-  <sitemap>
-    <loc>http://www.example.com/ja/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>http://leehyeoksu.github.io/</loc>
+  </url>
   
-</sitemapindex>
+  <url>
+    <loc>http://leehyeoksu.github.io/tags/</loc>
+  </url>
+  
+</urlset>
