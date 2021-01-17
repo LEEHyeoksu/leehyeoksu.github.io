@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hyeoksu Lee</title>
-    <link>http://github.com/LEEHyeoksu/leehyeoksu.github.io/</link>
+    <link>//leehyeoksu.github.io/</link>
     <description>Recent content on Hyeoksu Lee</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://github.com/LEEHyeoksu/leehyeoksu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="//leehyeoksu.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
