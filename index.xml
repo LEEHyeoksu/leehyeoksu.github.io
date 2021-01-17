@@ -6,5 +6,26 @@
     <description>Recent content on Hyeoksu Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="//leehyeoksu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>//leehyeoksu.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//leehyeoksu.github.io/about/</guid>
+      <description>I am currently a graduate student in the Mechanical Engineering Department at Seoul National University. I joined the Turbulence, Flow Control &amp;amp; CFD Lab under the supervision of Prof. Haecheon Choi in spring 2020. I work at the intersection of fluid mechanics and machine learning to better understand underlying mechanisms of natural swimmers and flyers. Now, my project focuses on data-driven modeling for flapping wing aerodynamics of insect scale flyers.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//leehyeoksu.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//leehyeoksu.github.io/projects/</guid>
+      <description>Journal Papers
+-
+Conference
+[1] Lee, H., Oh, S. &amp;amp; Choi, H. (2020). Machine-learning based prediction of the aerodynaic performance of a flapping wing in hovering motion, In 2020 KSME Annual Meeting. Korean Society of Mechanical Engineers.</description>
+    </item>
+    
   </channel>
 </rss>
